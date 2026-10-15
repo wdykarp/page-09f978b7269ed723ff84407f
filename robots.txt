@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-bea6843805.de93w.cn/sitemap.xml
